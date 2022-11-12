@@ -1,9 +1,8 @@
-### Learning_CSharp_from_Scratch
+# Learning_CSharp_from_Scratch
 
 ## Operatoren
-# Rechen: 
-- +, -, *, /, %, ++, --
-- # Vergleich: <, <=, >, >=, ==, !=
+- Rechen: +, -, *, /, %, ++, --
+- Vergleich: <, <=, >, >=, ==, !=
 - Logische: !, &&, ||, ^
 - Verkettung: +
 - Zuweisung: 
