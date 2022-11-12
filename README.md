@@ -1,9 +1,10 @@
-## Learning_CSharp_from_Scratch
+### Learning_CSharp_from_Scratch
 
-#Operatoren
--Rechen: +, -, *, /, %, ++, --
--Vergleich: <, <=, >, >=, ==, !=
--Logische: !, &&, ||, ^
--Verkettung: +
--Zuweisung: 
--rangfolge: 
+## Operatoren
+# Rechen: 
+- +, -, *, /, %, ++, --
+- # Vergleich: <, <=, >, >=, ==, !=
+- Logische: !, &&, ||, ^
+- Verkettung: +
+- Zuweisung: 
+- rangfolge: 
