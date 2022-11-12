@@ -8,9 +8,9 @@
 - 
 
 ## Basics
--Datentypen: byte, short, int, long, float, double, decimal, bool, char, string
--Konstenten: const
--Enumeration: enum
+- Datentypen: byte, short, int, long, float, double, decimal, bool, char, string
+- Konstenten: const
+- Enumeration: enum
 
 ### Operatoren
 - Rechen: +, -, *, /, %, ++, --
