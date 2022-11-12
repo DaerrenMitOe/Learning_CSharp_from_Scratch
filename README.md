@@ -5,7 +5,8 @@
 - Button
 - Panel
 - Timer
-- 
+- TextBox
+- NumericUpDown
 
 ## Basics
 - Datentypen: byte, short, int, long, float, double, decimal, bool, char, string
@@ -18,3 +19,9 @@
 - Logische: !, &&, ||, ^
 - Verkettung: +
 - Zuweisung: =, +=, -=, *=, /=, %= +=
+
+### Verzweigung
+- if else
+- switch case
+- tenäre Operator
+- 
