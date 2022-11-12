@@ -1,9 +1,20 @@
 # Learning_CSharp_from_Scratch
 
-## Operatoren
+## Windows Forms
+- Label
+- Button
+- Panel
+- Timer
+- 
+
+## Basics
+-Datentypen: byte, short, int, long, float, double, decimal, bool, char, string
+-Konstenten: const
+-Enumeration: enum
+
+### Operatoren
 - Rechen: +, -, *, /, %, ++, --
 - Vergleich: <, <=, >, >=, ==, !=
 - Logische: !, &&, ||, ^
 - Verkettung: +
-- Zuweisung: 
-- rangfolge: 
+- Zuweisung: =, +=, -=, *=, /=, %= +=
